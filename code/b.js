@@ -1,0 +1,3 @@
+require('Alpha');
+
+function Beta() {}
