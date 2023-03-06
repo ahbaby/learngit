@@ -1,3 +1,5 @@
 require('Alpha');
 
-function Beta() {}
+function Beta() {
+    return true;
+}
